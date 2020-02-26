@@ -21,8 +21,8 @@ h1 {
   align-items: center;
   justify-content: center;
   margin: auto;
-  height: 300px;
-  width: 300px;
+  height:260px;
+  width: 260px;
   position: relative;
   transform: scale(1);
 }
@@ -42,8 +42,8 @@ h1 {
 }
 .gradient-circle {
   background: conic-gradient(#4ca493 40%, #fff 0 60%, #336d62 0);
-  height: 320px;
-  width: 320px;
+  height: 280px;
+  width: 280px;
   z-index: -2;
   border-radius: 50%;
   position: absolute;
@@ -60,9 +60,9 @@ h1 {
 .pointer-container {
   position: absolute;
   top: -40px;
-  left: 140px;
+  left: 120px;
   width: 20px;
-  height: 190px;
+  height: 170px;
   animation: rotate 7.5s linear forwards infinite;
   transform-origin: bottom center;
 }
