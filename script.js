@@ -21,5 +21,5 @@ function breathAnimation() {
 setInterval(breathAnimation, totalTime);
 
 window.onload = function() {
-  document.getElementById('my_audio').play();
+  document.getElementById('playAudio').play();
 };
